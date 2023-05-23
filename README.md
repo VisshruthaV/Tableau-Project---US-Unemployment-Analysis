@@ -5,11 +5,9 @@ the United States. Through exploratory & predictive data analysis and data visua
 
 This project aims to answer three major questions:
 
-• Does geography impact the outcome of unemployment based on minimum wage? What makes certain areas present these patterns?
-
-• Would the Raise the Wage Act of 2021 provide broad-based benefits for people and improve the issue of unemployment across the states?
-
-• Can we predict future minimum wage rates and how they might impact unemployment?
+- Does geography impact the outcome of unemployment based on minimum wage? What makes certain areas present these patterns?
+- Would the Raise the Wage Act of 2021 provide broad-based benefits for people and improve the issue of unemployment across the states?
+- Can we predict future minimum wage rates and how they might impact unemployment?
 
 
 ## Viewing Instructions
