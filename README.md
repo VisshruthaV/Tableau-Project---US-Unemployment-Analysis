@@ -13,8 +13,8 @@ This project aims to answer three major questions:
 ## Viewing Instructions
 
 1. Download the files and open the US_unemployment_project.twbx file on Tableau.
-2. The first tab in the workbook is the project's story in which it will take you through a series of dashboards created to showcase the project's findings, results, and conclusions.
-3. The tabs that follow the story tab are the individual dashboards that were created when working on the project and finalizing the story. 
+2. The first sheet (Impact of Minimum Wage on Unemployment in the US) in the workbook is the project's story in which it will take you through a series of dashboards created to showcase the project's findings, results, and conclusions.
+3. The sheets that follow the story sheet are the individual dashboards that were created when working on the project and finalizing the story. 
 
 
 ## Project Skill Outcomes
