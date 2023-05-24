@@ -1,7 +1,7 @@
 # US Unemployment Analysis Based On Minimum Wage
 
 This tableau project analyzes and explores the relationship between the minimum wage and unemployment rates in 
-the United States. Through exploratory & predictive data analysis and data visualization using historical data, this project helps to determine whether the Raise the Wage Act of 2021 increase or decrease unemployment rates in th US. The aim is obtain meaningful findings that will aid in making recommendations to governments and major businesses regarding the baseline for minimum wage for their residents and workers.
+the United States. Through exploratory & predictive data analysis and data visualization using historical data, this project helps to determine whether the Raise the Wage Act of 2021 increase or decrease unemployment rates in the US. The aim is to obtain meaningful findings that will aid in making recommendations to governments and major businesses regarding the baseline for minimum wage for their residents and workers.
 
 This project aims to answer three major questions:
 
